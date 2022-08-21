@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<npc name="Pirate Jack" speechbubble="2" script="default.lua">
+ 	<look type="134" head="2" body="95" legs="60" feet="132"/>
+	<parameters>
+		<parameter key="module_shop" value="1" />
+		<parameter key="shop_buyable" value="beer,2006,10,3;wine,2006,10,15" />
+	</parameters>
+</npc>

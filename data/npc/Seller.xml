@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<npc name="Seller" speechbubble="2" script="seller.lua">
+ 	<look type="128" head="20" body="30" legs="40" feet="50"/>
+</npc>

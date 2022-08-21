@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<npc name="Guild Master" speechbubble="1" script="guild.lua">
+	<look type="57" head="20" body="30" legs="40" feet="50"/>
+	<parameters>
+		<parameter key="message_greet" value="Hello |PLAYERNAME|! Would you like to talk about {guild}?" />
+	</parameters>
+</npc>

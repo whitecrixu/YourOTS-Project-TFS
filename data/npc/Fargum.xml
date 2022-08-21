@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<npc name="Fargum" speechbubble="4" walkinterval="0" script="boat_city.lua">
+ 	<look type="129" head="114" body="119" legs="114" feet="114"/>
+	<parameters>
+		<parameter key="message_greet" value="Hello |PLAYERNAME|! Do you seek passage to the dragon land for 50 gold?" />
+	</parameters>
+</npc>

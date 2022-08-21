@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<npc name="Shanti" walkinterval="0" script="default.lua">
+ 	<look type="130" head="85" body="62" legs="102" feet="126"/>
+</npc>

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<npc name="Sally" speechbubble="2" script="default.lua">
+ 	<look type="136" head="79" body="81" legs="0" feet="0"/>
+	<parameters>
+		<parameter key="module_shop" value="1" />
+		<parameter key="shop_buyable" value="hatchet,2388,20;katana,2412,20;mace,2398,20;studded armor,2484,30;chain armor,2464,90;brass armor,2465,300;leather boots,2643,5;brass helmet,2460,20;leather helmet,2461,5;brass shield,2511,15;copper shield,2530,50;torch,2050,2;leather legs,2649,8;studded legs,2468,20" />
+	</parameters>
+</npc>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+
+<npc name="Maya" speechbubble="2" script="default.lua">
+	<look type="142" head="79" body="118" legs="115" feet="114"/>
+	<parameters>
+		<parameter key="module_shop" value="1" />
+		<parameter key="shop_buyable" value="crossbow,2455,200;bow,2456,100;arrow,2544,2;bolt,2543,3;spear,2389,10" />
+	</parameters>
+</npc>
