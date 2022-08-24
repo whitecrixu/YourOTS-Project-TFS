@@ -1,0 +1,739 @@
+<?xml version="1.0"?>
+<spawns>
+	<spawn centerx="1297" centery="1172" centerz="7" radius="3">
+		<monster name="Noble Lion" x="-2" y="3" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1311" centery="1172" centerz="7" radius="1">
+		<monster name="White Lion" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1314" centery="1172" centerz="7" radius="1">
+		<npc name="Sir Kadogan" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1318" centery="1175" centerz="7" radius="1">
+		<monster name="White Lion" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1309" centery="1176" centerz="7" radius="1">
+		<monster name="White Lion" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1290" centery="1179" centerz="7" radius="3">
+		<monster name="Noble Lion" x="2" y="-3" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1311" centery="1186" centerz="7" radius="3">
+		<monster name="Roaring Lion" x="-3" y="3" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1285" centery="1162" centerz="8" radius="1">
+		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1271" centery="1163" centerz="8" radius="1">
+		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1272" centery="1165" centerz="8" radius="1">
+		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1283" centery="1165" centerz="8" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1286" centery="1165" centerz="8" radius="1">
+		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1270" centery="1166" centerz="8" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1337" centery="1167" centerz="8" radius="1">
+		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1285" centery="1169" centerz="8" radius="1">
+		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1312" centery="1169" centerz="8" radius="1">
+		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1338" centery="1169" centerz="8" radius="1">
+		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1301" centery="1170" centerz="8" radius="1">
+		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1296" centery="1171" centerz="8" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1304" centery="1171" centerz="8" radius="1">
+		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1331" centery="1171" centerz="8" radius="1">
+		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1341" centery="1171" centerz="8" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1299" centery="1172" centerz="8" radius="1">
+		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1338" centery="1172" centerz="8" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1312" centery="1173" centerz="8" radius="1">
+		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1272" centery="1176" centerz="8" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1270" centery="1177" centerz="8" radius="1">
+		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1338" centery="1177" centerz="8" radius="1">
+		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1340" centery="1177" centerz="8" radius="1">
+		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1272" centery="1180" centerz="8" radius="1">
+		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1342" centery="1181" centerz="8" radius="1">
+		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1300" centery="1184" centerz="8" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1352" centery="1185" centerz="8" radius="1">
+		<monster name="White Lion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1284" centery="1186" centerz="8" radius="1">
+		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Werelioness" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1292" centery="1186" centerz="8" radius="1">
+		<monster name="White Lion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1355" centery="1186" centerz="8" radius="1">
+		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1290" centery="1187" centerz="8" radius="1">
+		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1295" centery="1188" centerz="8" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1352" centery="1188" centerz="8" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1356" centery="1188" centerz="8" radius="1">
+		<monster name="White Lion" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Werelioness" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1284" centery="1189" centerz="8" radius="1">
+		<monster name="White Lion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1288" centery="1189" centerz="8" radius="1">
+		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1270" centery="1190" centerz="8" radius="1">
+		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1272" centery="1190" centerz="8" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1347" centery="1191" centerz="8" radius="1">
+		<monster name="White Lion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1350" centery="1191" centerz="8" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1353" centery="1191" centerz="8" radius="1">
+		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1286" centery="1192" centerz="8" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1290" centery="1192" centerz="8" radius="1">
+		<monster name="White Lion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1271" centery="1193" centerz="8" radius="1">
+		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1269" centery="1194" centerz="8" radius="1">
+		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1271" centery="1196" centerz="8" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1308" centery="1197" centerz="8" radius="1">
+		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1313" centery="1197" centerz="8" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1340" centery="1197" centerz="8" radius="1">
+		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1345" centery="1198" centerz="8" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1315" centery="1199" centerz="8" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1288" centery="1200" centerz="8" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1349" centery="1201" centerz="8" radius="1">
+		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1286" centery="1202" centerz="8" radius="1">
+		<monster name="Werelioness" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1308" centery="1202" centerz="8" radius="1">
+		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1323" centery="1202" centerz="8" radius="1">
+		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1334" centery="1202" centerz="8" radius="1">
+		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1292" centery="1203" centerz="8" radius="1">
+		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1315" centery="1205" centerz="8" radius="1">
+		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1350" centery="1205" centerz="8" radius="1">
+		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1326" centery="1206" centerz="8" radius="1">
+		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1310" centery="1207" centerz="8" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1335" centery="1207" centerz="8" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1324" centery="1208" centerz="8" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1348" centery="1208" centerz="8" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1339" centery="1211" centerz="8" radius="1">
+		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1324" centery="1212" centerz="8" radius="1">
+		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1342" centery="1212" centerz="8" radius="1">
+		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1272" centery="1216" centerz="8" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1270" centery="1217" centerz="8" radius="1">
+		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1290" centery="1217" centerz="8" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1271" centery="1220" centerz="8" radius="1">
+		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1289" centery="1220" centerz="8" radius="1">
+		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1292" centery="1220" centerz="8" radius="1">
+		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1296" centery="1221" centerz="8" radius="1">
+		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1291" centery="1222" centerz="8" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1311" centery="1223" centerz="8" radius="1">
+		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1316" centery="1223" centerz="8" radius="1">
+		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1316" centery="1226" centerz="8" radius="1">
+		<monster name="White Lion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1270" centery="1227" centerz="8" radius="1">
+		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1306" centery="1227" centerz="8" radius="1">
+		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1270" centery="1229" centerz="8" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1279" centery="1229" centerz="8" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1308" centery="1229" centerz="8" radius="1">
+		<monster name="White Lion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1313" centery="1230" centerz="8" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1311" centery="1232" centerz="8" radius="1">
+		<monster name="Werelioness" x="-1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1315" centery="1233" centerz="8" radius="1">
+		<monster name="White Lion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1286" centery="1234" centerz="8" radius="1">
+		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1308" centery="1235" centerz="8" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1286" centery="1236" centerz="8" radius="1">
+		<monster name="White Lion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1283" centery="1238" centerz="8" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1287" centery="1238" centerz="8" radius="1">
+		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1325" centery="1238" centerz="8" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1323" centery="1240" centerz="8" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1320" centery="1242" centerz="8" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1326" centery="1242" centerz="8" radius="1">
+		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1323" centery="1243" centerz="8" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1328" centery="1243" centerz="8" radius="1">
+		<monster name="White Lion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1315" centery="1245" centerz="8" radius="1">
+		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1325" centery="1245" centerz="8" radius="1">
+		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1321" centery="1247" centerz="8" radius="1">
+		<monster name="White Lion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1329" centery="1248" centerz="8" radius="1">
+		<monster name="White Lion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1305" centery="1147" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1320" centery="1147" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1308" centery="1148" centerz="9" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1323" centery="1149" centerz="9" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1266" centery="1150" centerz="9" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1278" centery="1150" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1284" centery="1150" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1289" centery="1150" centerz="9" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1287" centery="1151" centerz="9" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1267" centery="1153" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1361" centery="1153" centerz="9" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1289" centery="1154" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1335" centery="1154" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1340" centery="1154" centerz="9" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1358" centery="1154" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1303" centery="1155" centerz="9" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1338" centery="1155" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1363" centery="1155" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1266" centery="1156" centerz="9" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1361" centery="1156" centerz="9" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1334" centery="1157" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1267" centery="1158" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1288" centery="1158" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1363" centery="1158" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1299" centery="1159" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1302" centery="1159" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1326" centery="1159" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1336" centery="1159" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1297" centery="1160" centerz="9" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1301" centery="1161" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1333" centery="1161" centerz="9" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1363" centery="1169" centerz="9" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1335" centery="1171" centerz="9" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1362" centery="1171" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1364" centery="1172" centerz="9" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1267" centery="1174" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1289" centery="1174" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1267" centery="1177" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1264" centery="1178" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1279" centery="1178" centerz="9" radius="1">
+		<monster name="Werelioness" x="0" y="-1" z="9" spawntime="145429760" />
+		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1269" centery="1179" centerz="9" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1283" centery="1179" centerz="9" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1286" centery="1179" centerz="9" radius="1">
+		<monster name="Werelion" x="1" y="-1" z="9" spawntime="60" />
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1336" centery="1179" centerz="9" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1336" centery="1181" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1334" centery="1182" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1294" centery="1185" centerz="9" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1335" centery="1185" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1363" centery="1185" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1290" centery="1187" centerz="9" radius="1">
+		<monster name="White Lion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1296" centery="1187" centerz="9" radius="1">
+		<monster name="White Lion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1359" centery="1187" centerz="9" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1362" centery="1187" centerz="9" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1260" centery="1188" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1362" centery="1189" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1290" centery="1190" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1295" centery="1190" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1292" centery="1191" centerz="9" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1261" centery="1193" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1334" centery="1194" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1355" centery="1194" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1259" centery="1195" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1329" centery="1195" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1352" centery="1195" centerz="9" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1262" centery="1196" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1356" centery="1197" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1295" centery="1198" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1328" centery="1198" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1330" centery="1198" centerz="9" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1297" centery="1199" centerz="9" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1357" centery="1199" centerz="9" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1261" centery="1200" centerz="9" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1284" centery="1201" centerz="9" radius="1">
+		<monster name="Werelion" x="-1" y="0" z="9" spawntime="145429760" />
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1290" centery="1201" centerz="9" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1299" centery="1201" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1276" centery="1202" centerz="9" radius="1">
+		<monster name="White Lion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1260" centery="1203" centerz="9" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1296" centery="1203" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1274" centery="1206" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1278" centery="1206" centerz="9" radius="1">
+		<monster name="White Lion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1330" centery="1211" centerz="9" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1262" centery="1214" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1357" centery="1215" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1260" centery="1216" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1329" centery="1216" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1282" centery="1217" centerz="9" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1285" centery="1217" centerz="9" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1296" centery="1217" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1298" centery="1217" centerz="9" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1300" centery="1217" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1261" centery="1218" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1357" centery="1218" centerz="9" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1329" centery="1219" centerz="9" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1331" centery="1219" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1333" centery="1219" centerz="9" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1351" centery="1219" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1355" centery="1220" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1311" centery="1222" centerz="9" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1350" centery="1225" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1311" centery="1227" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1316" centery="1227" centerz="9" radius="1">
+		<monster name="White Lion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1307" centery="1230" centerz="9" radius="1">
+		<monster name="White Lion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1316" centery="1230" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1268" centery="1231" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1272" centery="1231" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1291" centery="1231" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1295" centery="1231" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1313" centery="1231" centerz="9" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1344" centery="1231" centerz="9" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1300" centery="1232" centerz="9" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1352" centery="1232" centerz="9" radius="1">
+		<monster name="White Lion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1266" centery="1233" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1276" centery="1233" centerz="9" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1308" centery="1233" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1312" centery="1233" centerz="9" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1347" centery="1234" centerz="9" radius="1">
+		<monster name="White Lion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1352" centery="1235" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1260" centery="1236" centerz="9" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1266" centery="1243" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1263" centery="1244" centerz="9" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1295" centery="1245" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1326" centery="1245" centerz="9" radius="3">
+		<npc name="Heliodor" x="0" y="1" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1271" centery="1246" centerz="9" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1289" centery="1246" centerz="9" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1292" centery="1246" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1261" centery="1248" centerz="9" radius="1">
+		<monster name="White Lion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1284" centery="1248" centerz="9" radius="1">
+		<monster name="White Lion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1296" centery="1248" centerz="9" radius="1">
+		<monster name="White Lion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1270" centery="1249" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1266" centery="1250" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1287" centery="1250" centerz="9" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1296" centery="1250" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1261" centery="1253" centerz="9" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1265" centery="1253" centerz="9" radius="1">
+		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+		<monster name="Werelion" x="1" y="0" z="9" spawntime="145429760" />
+	</spawn>
+	<spawn centerx="1291" centery="1253" centerz="9" radius="1">
+		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+</spawns>

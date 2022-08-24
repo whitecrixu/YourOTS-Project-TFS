@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<spawns>
+	<spawn centerx="1022" centery="1003" centerz="4" radius="1">
+		<monster name="Draptor" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="1016" centery="1008" centerz="4" radius="1">
+		<monster name="Draptor" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="1003" centery="1020" centerz="4" radius="1">
+		<monster name="Draptor" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="1029" centery="1021" centerz="4" radius="1">
+		<monster name="Draptor" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="1030" centery="1005" centerz="5" radius="1">
+		<monster name="Draptor" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1016" centery="1006" centerz="5" radius="1">
+		<monster name="Draptor" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1035" centery="1006" centerz="5" radius="1">
+		<monster name="Draptor" x="0" y="-1" z="5" spawntime="60" />
+		<monster name="Draptor" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1030" centery="1012" centerz="5" radius="1">
+		<monster name="Draptor" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1035" centery="1012" centerz="5" radius="1">
+		<monster name="Draptor" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1006" centery="1016" centerz="5" radius="1">
+		<monster name="Draptor" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1018" centery="1019" centerz="5" radius="1">
+		<monster name="Draptor" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1000" centery="1006" centerz="6" radius="1">
+		<monster name="Draptor" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1013" centery="1011" centerz="6" radius="1">
+		<monster name="Draptor" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1024" centery="1011" centerz="6" radius="1">
+		<monster name="Draptor" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1044" centery="1014" centerz="6" radius="1">
+		<monster name="Draptor" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1056" centery="1014" centerz="6" radius="1">
+		<monster name="Draptor" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1012" centery="1016" centerz="6" radius="1">
+		<monster name="Draptor" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1032" centery="1016" centerz="6" radius="1">
+		<monster name="Draptor" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="991" centery="1017" centerz="6" radius="1">
+		<monster name="Draptor" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1014" centery="1024" centerz="6" radius="1">
+		<monster name="Draptor" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1026" centery="1025" centerz="6" radius="1">
+		<monster name="Draptor" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1035" centery="1027" centerz="6" radius="1">
+		<monster name="Draptor" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1047" centery="1027" centerz="6" radius="1">
+		<monster name="Draptor" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1070" centery="1027" centerz="6" radius="1">
+		<monster name="Draptor" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="981" centery="1028" centerz="6" radius="1">
+		<monster name="Draptor" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1015" centery="1030" centerz="6" radius="1">
+		<monster name="Draptor" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1052" centery="1034" centerz="6" radius="1">
+		<monster name="Draptor" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1011" centery="1037" centerz="6" radius="1">
+		<monster name="Draptor" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1030" centery="1038" centerz="6" radius="1">
+		<monster name="Draptor" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1069" centery="1038" centerz="6" radius="1">
+		<monster name="Draptor" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="980" centery="1040" centerz="6" radius="1">
+		<monster name="Draptor" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="997" centery="1047" centerz="6" radius="1">
+		<monster name="Draptor" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1041" centery="1048" centerz="6" radius="1">
+		<monster name="Draptor" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1013" centery="1049" centerz="6" radius="1">
+		<monster name="Draptor" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1016" centery="1051" centerz="6" radius="1">
+		<monster name="Draptor" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="987" centery="1052" centerz="6" radius="1">
+		<monster name="Draptor" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1006" centery="1052" centerz="6" radius="1">
+		<monster name="Draptor" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1054" centery="1052" centerz="6" radius="1">
+		<monster name="Draptor" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1065" centery="1053" centerz="6" radius="1">
+		<monster name="Draptor" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1029" centery="1055" centerz="6" radius="1">
+		<monster name="Draptor" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="996" centery="1063" centerz="6" radius="1">
+		<monster name="Draptor" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1051" centery="1064" centerz="6" radius="1">
+		<monster name="Draptor" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="986" centery="1065" centerz="6" radius="1">
+		<monster name="Draptor" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1006" centery="1066" centerz="6" radius="1">
+		<monster name="Draptor" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="991" centery="1067" centerz="6" radius="1">
+		<monster name="Draptor" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1029" centery="1068" centerz="6" radius="1">
+		<monster name="Draptor" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1038" centery="1070" centerz="6" radius="1">
+		<monster name="Draptor" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1065" centery="1073" centerz="6" radius="1">
+		<monster name="Draptor" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1046" centery="1080" centerz="6" radius="1">
+		<monster name="Draptor" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="990" centery="1083" centerz="6" radius="1">
+		<monster name="Draptor" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1033" centery="1087" centerz="6" radius="1">
+		<monster name="Draptor" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1026" centery="1088" centerz="6" radius="1">
+		<monster name="Draptor" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1009" centery="1090" centerz="6" radius="1">
+		<monster name="Draptor" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+</spawns>
